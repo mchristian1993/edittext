@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">edittext</string>
+    <string name="d">Nombre</string>
+    <string name="app_namf">nombre</string>
+    <string name="app_namy">apellido</string>
+    <string name="y">OK</string>
+    <string name="str">NOMBRE</string>
+    <string name="stY">APELLIDO</string>
+</resources>
