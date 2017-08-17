@@ -7,4 +7,5 @@
     <string name="str">NOMBRE</string>
     <string name="stY">APELLIDO</string>
     <string name="btn_1">ACEPTAR</string>
+    <string name="title1">titulo1</string>
 </resources>
