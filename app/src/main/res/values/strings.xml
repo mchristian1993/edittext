@@ -6,4 +6,5 @@
     <string name="y">OK</string>
     <string name="str">NOMBRE</string>
     <string name="stY">APELLIDO</string>
+    <string name="btn_1">ACEPTAR</string>
 </resources>

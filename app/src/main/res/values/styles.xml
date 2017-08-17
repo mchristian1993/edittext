@@ -9,8 +9,14 @@
     </style>
 
     <style name="mystile" parent="TextAppearance.AppCompat">
-      <item name="android:textColorHint">@android:color/darker_gray</item>
+      <item name="android:textColorHint">#df361b</item>
+        <item name="android:textSize">20sp</item>
+        <item name="colorAccent">#1b95df</item>
     </style>
 
 
+    <style name="mystileboton" parent="TextAppearance.AppCompat">
+        <item name="colorButtonNormal">#03a29d</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
 </resources>
